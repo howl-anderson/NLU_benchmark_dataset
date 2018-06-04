@@ -9,7 +9,7 @@ This project has collected some public data sets that can be used for NLU benchm
 
 | Language | Dataset    | DialogFlow Format                                                      | Rasa NLU Format                                                   |
 |----------|------------|------------------------------------------------------------------------|-------------------------------------------------------------------|
-| Chinese  | small-talk | [zh-CN.zip](dataset/dialogflow/small-talk/dialogflow_format/en-US.zip) | [zh-CN.zip](dataset/dialogflow/small-talk/rasa_format/ zh-CN.zip) |
+| Chinese  | small-talk | [zh-CN.zip](dataset/dialogflow/small-talk/dialogflow_format/en-US.zip) | [zh-CN.zip](dataset/dialogflow/small-talk/rasa_format/zh-CN.zip) |
 | Chinese  | support    | [zh-CN.zip](dataset/dialogflow/support/dialogflow_format/en-US.zip)    | [zh-CN.zip](dataset/dialogflow/support/rasa_format/en-US.zip)     |
 | Chinese  | translate  | [zh-CN.zip](dataset/dialogflow/translate/dialogflow_format/en-US.zip)  | [zh-CN.zip](dataset/dialogflow/translate/rasa_format/en-US.zip)   |
 | Chinese  | weather    | [zh-CN.zip](dataset/dialogflow/weather/dialogflow_format/en-US.zip)    | [zh-CN.zip](dataset/dialogflow/weather/rasa_format/en-US.zip)     |
