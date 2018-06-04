@@ -1,0 +1,2 @@
+rasa_nlu
+joblib
