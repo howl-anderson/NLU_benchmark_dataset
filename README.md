@@ -6,6 +6,38 @@
 # 数据集
 ## DialogFlow
 
+### 概要
+
+#### 意图
+
+总计: 11
+
+* 'weather.activity'
+* 'weather.temperature'
+* 'weather - context:weather - comment:outfit'
+* 'weather'
+* 'weather - context:weather - comment:address & date-time'
+* 'weather.outfit'
+* 'weather - context:weather - comment:address'
+* 'weather - context:weather - comment:date time'
+* 'weather - context:weather - comment:condition'
+* 'weather - context:weather - comment:activity'
+* 'weather.condition'
+
+#### 实体
+
+总计: 7
+
+* 'activity'
+* 'condition'
+* 'outfit'
+* 'address'
+* 'temperature'
+* 'unit'
+* 'date-time'
+
+### Download
+
 | 语言  | 数据集        | DialogFlow 格式                                                          | Rasa NLU 格式                                                      |
 |-----|------------|------------------------------------------------------------------------|------------------------------------------------------------------|
 | 中文  | small-talk | [zh-CN.zip](dataset/dialogflow/small-talk/dialogflow_format/zh-CN.zip) | [zh-CN.zip](dataset/dialogflow/small-talk/rasa_format/zh-CN.zip) |

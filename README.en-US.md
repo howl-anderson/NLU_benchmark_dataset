@@ -7,6 +7,38 @@ This project has collected some public data sets that can be used for NLU benchm
 # data set
 ## DialogFlow
 
+### Summary
+
+#### intents
+
+Count: 11
+
+* 'weather.activity'
+* 'weather.temperature'
+* 'weather - context:weather - comment:outfit'
+* 'weather'
+* 'weather - context:weather - comment:address & date-time'
+* 'weather.outfit'
+* 'weather - context:weather - comment:address'
+* 'weather - context:weather - comment:date time'
+* 'weather - context:weather - comment:condition'
+* 'weather - context:weather - comment:activity'
+* 'weather.condition'
+
+#### entities
+
+Count: 7
+
+* 'activity'
+* 'condition'
+* 'outfit'
+* 'address'
+* 'temperature'
+* 'unit'
+* 'date-time'
+
+### Download
+
 | Language | Dataset    | DialogFlow Format                                                      | Rasa NLU Format                                                   |
 |----------|------------|------------------------------------------------------------------------|-------------------------------------------------------------------|
 | Chinese  | small-talk | [zh-CN.zip](dataset/dialogflow/small-talk/dialogflow_format/en-US.zip) | [zh-CN.zip](dataset/dialogflow/small-talk/rasa_format/zh-CN.zip) |
